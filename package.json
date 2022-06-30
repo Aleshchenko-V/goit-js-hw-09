@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
-    "cssnano": "^5.1.12",
+    "cssnano": "^4.1.11",
     "notiflix": "^3.2.5",
     "parcel": "^2.6.0",
     "parcel-bundler": "^1.12.5",
